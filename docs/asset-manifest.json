@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2921aa54.css",
+    "main.js": "/static/js/main.a52bbabc.js",
+    "static/js/787.8b88bcfa.chunk.js": "/static/js/787.8b88bcfa.chunk.js",
+    "static/media/Halo.webp": "/static/media/Halo.fd8f6deda086edf98bd2.webp",
+    "static/media/borderlands.jpg": "/static/media/borderlands.86aaecde13f3e1a05a0d.jpg",
+    "static/media/crash_bandicoot.avif": "/static/media/crash_bandicoot.f6c0cfc5c6ec920f2034.avif",
+    "static/media/mortal_kombat.webp": "/static/media/mortal_kombat.8bbf7b9499539f3eb768.webp",
+    "static/media/need-speed.jpg": "/static/media/need-speed.1d62de6114c74d50a0bf.jpg",
+    "index.html": "/index.html",
+    "main.2921aa54.css.map": "/static/css/main.2921aa54.css.map",
+    "main.a52bbabc.js.map": "/static/js/main.a52bbabc.js.map",
+    "787.8b88bcfa.chunk.js.map": "/static/js/787.8b88bcfa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2921aa54.css",
+    "static/js/main.a52bbabc.js"
+  ]
+}
